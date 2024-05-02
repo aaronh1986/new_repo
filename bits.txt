@@ -1,2 +1,3 @@
 Hello from the bits.txt file
 Hello again from the bits.txt
+I'm starting to really get this nicely!
